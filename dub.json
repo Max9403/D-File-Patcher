@@ -1,0 +1,6 @@
+{
+  "name":"D File Patcher",
+  "description":"Just a simple patcher made in D",
+  "authors":["Benjamin Claassen"],
+  "license":"MIT"
+}
